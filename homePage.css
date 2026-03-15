@@ -1,0 +1,8 @@
+
+table, th, td {
+  border: 1px solid;
+}
+
+.idle {background-color:yellow;}
+.producing {background-color: green;}
+.starved {background-color: red;}
